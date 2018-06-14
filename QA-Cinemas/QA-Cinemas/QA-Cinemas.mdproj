@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ItemType>GenericProject</ItemType>
+    <ProjectGuid>{A5DCA6D5-DE39-4773-AA7F-1ED0EB91A231}</ProjectGuid>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Default|AnyCPU' ">
+    <OutputPath>.\</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="index.html" />
+    <None Include="listings.html" />
+    <None Include="css\app.css" />
+    <None Include="css\foundation.css" />
+    <None Include="css\foundation.min.css" />
+    <None Include="css\style.txt" />
+    <None Include="js\app.js" />
+    <None Include="js\vendor\foundation.js" />
+    <None Include="js\vendor\foundation.min.js" />
+    <None Include="js\vendor\jquery.js" />
+    <None Include="js\vendor\what-input.js" />
+  </ItemGroup>
+</Project>

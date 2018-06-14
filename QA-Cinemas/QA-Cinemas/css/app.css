@@ -1,0 +1,36 @@
+.row{
+    outline: 1px dashed red;
+}
+.large-12 {
+    background-color: lightblue;
+}
+.small-2 {
+    background-color: red;
+}
+.small-4 {
+    background-color: blue;
+}
+.small-6{
+    background-color: green;
+}
+.medium-3{
+    background-color: yellow;
+}
+.medium-9 {
+    background-color: aqua;
+}
+.large-3{
+    background-color:cyan;
+} 
+.large-6  {
+    background-color: pink;
+}
+.large-11 {
+    background-color: #ff6a00;
+}
+.large-10{
+    background-color:#ffd800;
+}
+.large-8{
+    background-color:#808080;
+}

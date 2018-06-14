@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{A5DCA6D5-DE39-4773-AA7F-1ED0EB91A231}|Default">
+  <MonoDevelop.Ide.ItemProperties.QA-Cinemas PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="QA-Cinemas/listings.html">
+    <Files>
+      <File FileName="QA-Cinemas/index.html" Line="9" Column="47" />
+      <File FileName="../../../Downloads/Mobile First Design &amp; Foundation/11_Introduction to Foundation/GRID_BASED_SYSTEMS_FOUNDATION/FOUNDATION 6/index.html" Line="9" Column="47" />
+      <File FileName="QA-Cinemas/listings.html" Line="10" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
